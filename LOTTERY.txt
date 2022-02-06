@@ -1,0 +1,32 @@
+ANMDream (Lottery)
+How to play:
+1.Buy tickets: 
+Price are set when the round starts, equal to 1 USD in ANMP per ticket
+2.Wait for the draw:
+There are 24 draws everyday(draw hourly)
+3.Check for Prizes
+Once the round’s over, come back to the page and check to see if you’ve won.(1 winner)
+
+Mechanism:
+Prize = number of players * ticket price * 90%
+For example: 
+1.
+The round started:
+2.
+Player A bought a ticket (price 10000 ANMP，equal to 1 USD) to participate and got a number ‘1’
+The 10000 ANMP goes to the lottery pool
+So 10000 ANMP in the pool, and only number ‘1’ participating.
+3.
+Then player B bought a ticket too, and got a number ‘2’
+So 20000 ANMP in the pool, and two numbers participating.
+4.
+Player C number ‘3’
+Player D number ‘4’
+...
+In this round, there are 50 players participated, they got number ‘1’ to ‘50’ on there tickets.
+So 500000 ANMP in the lottery pool, 50 numbers participating.
+5.
+When the round over (1 hour per round), the system generate a number from 1 to 50 randomly, and that number gets 90% of the lottery pool, which is 450000 ANMP
+The 10% is divided into 2 parts:
+5% goes back to Marketing Wallet
+5% sold by contract and buy ANM automatically ( send to burn address after buy)
